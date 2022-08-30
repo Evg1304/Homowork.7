@@ -1,5 +1,5 @@
  public class Arrays {
-     public static int[] generateRandomArray() {
+     public static int[] generateRandomArray(){
 
          java.util.Random random = new java.util.Random();
          int[] arr = new int[30];

@@ -9,7 +9,7 @@
          return arr;
      }
 
-     public static void mail(String[] args) {
+     public static void mail(String[] args){
          var salaries = generateRandomArray();
          int sum = 0;
          for (int i = 0; i < salaries.length; i++) {
